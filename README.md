@@ -8,4 +8,4 @@ A simple Recipe website made to showcase basic HTML/CSS content.
 
 # Link to the website
 
-- [TB Added]
+- [Click here](https://aditi002-holo.github.io/odin-recipes/)
