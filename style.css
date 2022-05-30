@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(243, 233, 201);
+}
+
+.head-section {
+    display: block;
+    text-align: center;
+}
+
+.items {
+    object-fit: cover;
+    border: 2px solid black;
+    padding: 2px;
+    margin: 5px;
+    text-align: center;
+    list-style: none;
+  }
