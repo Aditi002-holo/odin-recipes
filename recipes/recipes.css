@@ -37,14 +37,14 @@ body {
     /* margin-left: -50px; */
     transition: 0.4s ease-out;
     position: relative;
-    left: 0px;
+    margin: 25px;
     padding: 20px;
     background-color: rgb(243, 233, 201);
   }
 
 .card.image {
     padding: 0;
-    margin: 10px;
+    margin: 25px;
 }
 
 ul {
